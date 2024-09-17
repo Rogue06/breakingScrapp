@@ -1,0 +1,36 @@
+Je souhaite créer un bot de scrapping.
+
+Le bot doit être capable de se connecter à des sites web et de récupérer des informations spécifiques. avec du python. et pour le front avec html, css et javascript.
+le but sera d'avoir un rassemblement d'informations et d'avoir sur le coté droit les actualités de crypto monnaie du jour.
+on pourra choisir aussi une date précise pour voir les actualités de la crypto monnaie pour cette date.
+
+
+il pourra aller chercher les informations sur plusieurs pages web portant sur les informations de finances au USA. et qui parlent de crypto monnaie.
+
+
+il faudra donc récupérer les informations suivantes:
+- le titre
+- l'image ou la vidéo de l'article 
+- le contenu
+- le lien
+
+
+pour les sites web pour la finance :
+- https://www.cnbc.com/
+- https://www.cmegroup.com/markets/interest-rates/cme-fedwatch-tool.html
+- https://www.coindesk.com/
+- https://www.u.today/
+- https://www.marketwatch.com/
+- https://www.reuters.com/
+- https://www.bloomberg.com/
+- https://www.ft.com/
+- https://www.wsj.com/
+- https://www.nytimes.com/
+- https://www.cnbc.com/
+
+
+
+
+
+
+
