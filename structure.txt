@@ -1,0 +1,26 @@
+crypto-news-scraper/
+├── backend/
+│   ├── requirements.txt
+│   ├── main.py
+│   ├── scrapers/
+│   │   ├── __init__.py
+│   │   ├── base_scraper.py
+│   │   └── site_scrapers/
+│   │       ├── __init__.py
+│   │       ├── cnbc_scraper.py
+│   │       ├── coindesk_scraper.py
+│   │       └── reuters_scraper.py
+│   └── api/
+│       ├── __init__.py
+│       └── routes.py
+└── frontend/
+    ├── index.html
+    ├── package.json
+    ├── src/
+    │   ├── App.jsx
+    │   ├── components/
+    │   │   ├── NewsGrid.jsx
+    │   │   ├── NewsCard.jsx
+    │   │   └── DatePicker.jsx
+    │   └── services/
+    │       └── api.js 
