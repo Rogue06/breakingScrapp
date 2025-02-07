@@ -1,6 +1,6 @@
 Je souhaite créer un bot de scrapping.
 
-Le bot doit être capable de se connecter à des sites web et de récupérer des informations spécifiques. avec du python. et pour le front avec html, css et javascript.
+Le bot doit être capable de se connecter à des sites web et de récupérer des informations spécifiques. avec du python. et pour le front avec React + Vite.
 le but sera d'avoir un rassemblement d'informations et d'avoir sur le coté droit les actualités de crypto monnaie du jour.
 on pourra choisir aussi une date précise pour voir les actualités de la crypto monnaie pour cette date.
 
